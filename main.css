@@ -1,0 +1,24 @@
+body {
+	background-image: url('https://images.pexels.com/photos/2736499/pexels-photo-2736499.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+	background-repeat: no-repeat;
+	
+	background-size: cover;	
+}
+
+h1 {
+	font-family: 'Showcard Gothic', 'Arial';
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+}
+
+form{
+	font-family: 'Showcard Gothic', 'Arial';
+	text-align: center;
+}
+
+button{
+      border-radius: 6px;       
+}
